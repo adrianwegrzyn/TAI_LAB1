@@ -1,3 +1,11 @@
 body {
     background-color: darkorange;
 }
+ul {
+    display: inline;
+
+}
+li {
+    display: inline;
+
+}
