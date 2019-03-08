@@ -9,3 +9,9 @@ li {
     display: inline;
 
 }
+.center {
+    text-align: center;
+}
+a {
+    padding-left: 15px;
+}
